@@ -2,6 +2,6 @@
 
 # Project Description
 # Visuals
-# Concept
+<img src = "./Visuals/BaseInstagramFiler_SwitchMeshes.gif" width = 500>
 ## Idea
 ## References
